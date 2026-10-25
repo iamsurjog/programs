@@ -1,9 +1,0 @@
-cust_id,full_name,age,signup_date,city,annual_income,purchase_amount,churned
-C-101,"""  alice Smith """,29,2023/01/15,New York,"$65,000",120.50,No
-C-102,"""BOB JONES""",-4,15-02-2023,NYC,"$54,000",89.00,N
-C-103,"""Charlie Brown""",42,2023-03-10,San Francisco,82000,-15.00,0
-C-104,"""diana Prince""",NaN,2023-03-22,Calif.,"$95,000",450.00,Yes
-C-105,"""Evan Wright""",35,04/12/2023,Los Angeles,unknown,210.00,Y
-C-106,"""Fiona Gallagher""",31,2023-05-01,N.Y.,"$72,000",999999.00,No
-C-102,"""BOB JONES""",-4,15-02-2023,NYC,"$54,000",89.00,N
-C-107,"""""",58,2023-06-18,Chicago,"$110,000",NaN,1
